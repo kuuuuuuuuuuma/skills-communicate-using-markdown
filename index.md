@@ -15,3 +15,8 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 ```php
 $length = count($array);
 ```
+
+- [x] 醤油ラーメン
+- [ ] 博多ラーメン
+- [ ] 味噌ラーメン
+- [x] 札幌ラーメン
